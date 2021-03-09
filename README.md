@@ -20,4 +20,10 @@ Logo após a execução do teste um relatório será exibido.
 
 Dentro do projeto é gerado um vídeo do teste realizado pelo comando 
 
+<<<<<<< HEAD
 npm run cypress:run
+=======
+Dentro do projeto e gerado um video do teste realizado pelo comando
+
+npm run cypress:run 
+>>>>>>> 7d04e3c53533755fff3797cf35782d647c6abc6c
