@@ -1,4 +1,6 @@
-Este projeto foi desenvolvido em Cypress 
+Este projeto foi desenvolvido em Cypress junto com o padrão de projetos PageObjects 
+
+Contem no total 2 testes um utilizando o cucumber e o outro sem cucumber. 
 
 Para executar o projeto basta clonar em sua máquina e executar o comando 
 
